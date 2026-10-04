@@ -6,13 +6,17 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `2026-10-04` |
+| **1** | 0 | 1 | 0 | `2026-10-04` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-No problems synced yet.
+### DSA (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [Linear Search](./DSA/Arrays/linear-search) | [CPP](./DSA/Arrays/linear-search/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 
 ---
 

@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 0 | 6 | 0 | `2026-10-04` |
+| **7** | 0 | 7 | 0 | `2026-10-04` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (6)
+### DSA (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,7 +21,8 @@
 | 0003 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0004 | [Linear Search](./DSA/Arrays/linear-search) | [CPP](./DSA/Arrays/linear-search/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0005 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [CPP](./DSA/Arrays/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
-| 0006 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0006 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [CPP](./DSA/Arrays/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0007 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 
 ---
 

@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **15** | 0 | 15 | 0 | `2026-10-12` |
+| **16** | 0 | 16 | 0 | `2026-10-12` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (15)
+### DSA (16)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -29,8 +29,9 @@
 | 0011 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [CPP](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0012 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [CPP](./DSA/Arrays/rearrange-array-elements-by-sign/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0013 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
-| 0014 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
-| 0015 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0014 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [CPP](./DSA/Arrays/search-x-in-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0015 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0016 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 
 ---
 
